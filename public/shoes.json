@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Force 1",
+    "price": "RM 659",
+    "category": "Lifestyle",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a80d1905-5296-4aa9-855a-1d617e3c98f6/AIR+FORCE+1+LOW+RETRO+PRM.png",
+    "imageAlt": "Nike Air Force 1 Low Retro Premium in white"
+  },
+  {
+    "id": 2,
+    "name": "Nike Vomero Plus",
+    "price": "RM 759",
+    "category": "Running",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8d73cd25-91cc-48fe-9514-7a41daccb7ef/NIKE+VOMERO+PLUS.png",
+    "imageAlt": "Men Road Running Shoes"
+  },
+  {
+    "id": 3,
+    "name": "Nike Vaporfly 4",
+    "price": "RM 649",
+    "category": "Running",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/117eaf48-f736-44cf-9619-abf75a7e4320/ZOOMX+VAPORFLY+NEXT%25+4.png",
+    "imageAlt": "Men Road Racing Shoes"
+  },
+  {
+    "id": 4,
+    "name": "Nike MC Trainer 3",
+    "price": "RM 309",
+    "category": "Workout",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d1986b5b-b3d7-41a1-9d65-a36e0106b514/M+NIKE+MC+TRAINER+3.png",
+    "imageAlt": "Men Workout Shoes"
+  },
+  {
+    "id": 5,
+    "name": "Nike Free Metcon 6",
+    "price": "RM 559",
+    "category": "Workout",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e5cc9ab3-5c10-43fa-b007-5bb4fcfc07d9/NIKE+FREE+METCON+6.png",
+    "imageAlt": "Men Workout Shoes"
+  },
+  {
+    "id": 6,
+    "name": "Nike Mercurial Vapor 16",
+    "price": "RM 1,479",
+    "category": "Football",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b74d8221-d111-4c4d-aa47-22e071896ee4/ZM+VAPOR+16+ELITE+AM+95+SE+FG.png",
+    "imageAlt": "FG Low-Top Football Boot"
+  },
+  {
+    "id": 7,
+    "name": "Nike Mercurial Superly 10 Elite",
+    "price": "RM 1,329",
+    "category": "Football",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed1e1305-096c-4d1c-8a79-a9d13b9e6144/ZM+SUPERFLY+10+ELITE+FG+SK.png",
+    "imageAlt": "FG Low-Top Football Boot"
+  },
+  {
+    "id": 8,
+    "name": "Air Jordan 1 Low SE",
+    "price": "RM 579",
+    "category": "Jordan",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a2fcd201-82f3-43e4-a268-7f0d26f2a8e8/AIR+JORDAN+1+LOW+SE.png",
+    "imageAlt": "Men Shoes"
+  },
+  {
+    "id": 9,
+    "name": "Nike Infinity Tour BOA 2",
+    "price": "RM 939",
+    "category": "Golf",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d86d3c36-04be-4302-bbb5-8f75ecaa3083/AR+ZM+INFNTY+TR+NXT%25+BOA+2+W.png",
+    "imageAlt": "Golf Shoes (Wide)"
+  },
+  {
+    "id": 10,
+    "name": "Nike SB Dunk Low",
+    "price": "RM 559",
+    "category": "Skate",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2270198b-76af-479a-a8cc-7470a9a4669b/NIKE+SB+DUNK+LOW+PRO+PRM.png",
+    "imageAlt": "'Verdugo Mountain' Skate Shoes"
+  },
+  {
+    "id": 11,
+    "name": "Nike Victory Tour 4 BOA",
+    "price": "RM 979",
+    "category": "Golf",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/76cec7b3-a085-4af2-bbe6-248428f4c1ac/VICTORY+TOUR+4+BOA.png",
+    "imageAlt": "Golf Shoes"
+  },
+  {
+    "id": 12,
+    "name": "Nike SB Malor",
+    "price": "RM 349",
+    "category": "Skate",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e1ae8d55-caed-4263-989b-be3d8a8edffc/NIKE+SB+MALOR.png",
+    "imageAlt": "Men Shoes"
+  },
+  {
+    "id": 13,
+    "name": "Air Jordan 4 RM",
+    "price": "RM 649",
+    "category": "Jordan",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9bf00ae7-70a1-479a-9981-1952fe49b63a/AIR+JORDAN+4+RM.png",
+    "imageAlt": "Men Shoes"
+  },
+  {
+    "id": 14,
+    "name": "Nike Air Max SNDR",
+    "price": "RM 899",
+    "category": "Lifestyle",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d0c03f2c-67bf-4994-ac8f-5b7108cd5cb6/W+NIKE+AIR+MAX+SNDR.png",
+    "imageAlt": "Men Shoes"
+  },
+  {
+    "id": 15,
+    "name": "LeBron NXXT Genisus QS EP",
+    "price": "RM 729",
+    "category": "Basketball",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/64bf6a02-62db-4b07-99b5-da0f803261dd/LBJ+NXXT+GENISUS+QS+EP.png",
+    "imageAlt": "Basketball shoes"
+  },
+  {
+    "id": 16,
+    "name": "A 'One 'Unapologetic' EP",
+    "price": "RM 509",
+    "category": "Basketball",
+    "imageSrc": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4104efc3-a3c7-40c7-9de9-fc42cf6bd50e/A%27ONE+EP.png",
+    "imageAlt": "A'ja Wilson Basketball Shoes"
+  }
+]
